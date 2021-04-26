@@ -11,7 +11,7 @@ const choiceMap = {
 };
 const statusMap = {
   true: "Win",
-  false: "Loose",
+  false: "Lose",
 };
 
 const DecisionBox = (props) => {
